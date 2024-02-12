@@ -5,14 +5,21 @@
       "packageName": "Untitled Package 1",
       "moduleUUID": "65c9f1cd715531258dc4fc0e",
       "moduleName": "QueryModule1",
-      "version": "0.0.2"
+      "version": "0.0.3"
     },
     {
       "packageUUID": "65c9f1c5715531258dc4fc07",
       "packageName": "Untitled Package 1",
       "moduleUUID": "65ca06a7a015323a7774ebdc",
       "moduleName": "Query1Module",
-      "version": "0.0.2"
+      "version": "0.0.3"
+    },
+    {
+      "packageUUID": "65c9f1c5715531258dc4fc07",
+      "packageName": "Untitled Package 1",
+      "moduleUUID": "65ca06e9a015323a7774ec5e",
+      "moduleName": "Query2Module",
+      "version": "0.0.3"
     }
   ],
   "clientSchemaVersion": 1,
